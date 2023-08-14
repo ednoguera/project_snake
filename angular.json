@@ -75,7 +75,8 @@
               "browserTarget": "project_snake:build:production"
             },
             "development": {
-              "browserTarget": "project_snake:build:development"
+              "browserTarget": "project_snake:build:development",
+              "host": "local.projectsnake.app"
             }
           },
           "defaultConfiguration": "development"
